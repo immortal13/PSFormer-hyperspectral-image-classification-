@@ -15,3 +15,11 @@ Demo code of "PSFormer: Pyramid Superpixel Transformer for Hyperspectral Image C
 cd CODE/PSFormer
 CUDA_VISIBLE_DEVICES=7 python main.py --tr 30
 ```
+## Citation
+If you find this work interesting in your research, please kindly cite:
+
+Thank you very much! (*^▽^*)
+
+This code is constructed based on [MSSG-UNet](https://github.com/qichaoliu/MSSG-UNet), [SuperpixelHierarchy](https://github.com/xingxjtu/SuperpixelHierarchy), and [AM-GCN](https://github.com/zhumeiqiBUPT/AM-GCN), thanks~💕.
+
+If you have any questions, please feel free to contact me (Jiaqi Zou, immortal@whu.edu.cn).
