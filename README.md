@@ -11,3 +11,7 @@ Demo code of "PSFormer: Pyramid Superpixel Transformer for Hyperspectral Image C
 **QUH-Tangdaowan**: https://github.com/Hang-Fu/QUH-classification-dataset
 
 ## Step 2: train and test
+```
+cd CODE/PSFormer
+CUDA_VISIBLE_DEVICES=7 python main.py --tr 30
+```
