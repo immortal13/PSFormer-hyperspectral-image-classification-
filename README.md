@@ -1,5 +1,5 @@
 # PSFormer-hyperspectral-image-classification
-Demo code of "PSFormer: Pyramid Superpixel Transformer for Hyperspectral Image Classification"
+Demo code of ["PSFormer: Pyramid Superpixel Transformer for Hyperspectral Image Classification"](https://ieeexplore.ieee.org/document/10695122)
 
 ## Step 1: prepare dataset
 **Salinas and Pavia University**: https://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes
