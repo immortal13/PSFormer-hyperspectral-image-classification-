@@ -12,9 +12,9 @@ Demo code of "PSFormer: Pyramid Superpixel Transformer for Hyperspectral Image C
 
 ## Step 2: train and test
 ```
-cd CODE/PSFormer
-CUDA_VISIBLE_DEVICES=7 python main.py --tr 30
+python main.py --cuda 0
 ```
+
 ## Citation
 If you find this work interesting in your research, please kindly cite:
 ```
