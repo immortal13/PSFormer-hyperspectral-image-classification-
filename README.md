@@ -17,7 +17,17 @@ CUDA_VISIBLE_DEVICES=7 python main.py --tr 30
 ```
 ## Citation
 If you find this work interesting in your research, please kindly cite:
-
+```
+@ARTICLE{10695122,
+  author={Zou, Jiaqi and He, Wei and Zhang, Hongyan},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={PSFormer: Pyramid Superpixel Transformer for Hyperspectral Image Classification}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TGRS.2024.3468876}}
+```
 Thank you very much! (*^▽^*)
 
 This code is constructed based on [MSSG-UNet](https://github.com/qichaoliu/MSSG-UNet), [SuperpixelHierarchy](https://github.com/xingxjtu/SuperpixelHierarchy), and [AM-GCN](https://github.com/zhumeiqiBUPT/AM-GCN), thanks~💕.
