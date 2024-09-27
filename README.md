@@ -14,6 +14,12 @@ Demo code of "PSFormer: Pyramid Superpixel Transformer for Hyperspectral Image C
 ```
 python main.py --cuda 0
 ```
+## Step 3: record classification result
+The **quantitative evaluation results** will be recorded in the '/results' folder.
+
+The high-definition **qualitative evaluation results** can be generated with the codes in the '/visualization_code' folder. 
+
+(you can generate the full classification maps or classification maps without background category with custom palette 🫡🫡)
 
 ## Citation
 If you find this work interesting in your research, please kindly cite:
