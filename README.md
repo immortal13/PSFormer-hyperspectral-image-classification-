@@ -29,10 +29,11 @@ If you find this work interesting in your research, please kindly cite:
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
   title={PSFormer: Pyramid Superpixel Transformer for Hyperspectral Image Classification}, 
   year={2024},
-  volume={},
+  volume={62},
   number={},
-  pages={1-1},
+  pages={1-16},
   doi={10.1109/TGRS.2024.3468876}}
+
 ```
 Thank you very much! (*^▽^*)
 
